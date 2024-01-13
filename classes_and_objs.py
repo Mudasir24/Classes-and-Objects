@@ -1,5 +1,5 @@
 # A class named Book with attributes: title, author, and genre
-class Book:\
+class Book:
 
     # Initializing object attributes
     def __init__(self,title,author,genre):
